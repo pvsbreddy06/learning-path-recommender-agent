@@ -1,1 +1,19 @@
 
+[
+  {
+    "name": "Alice",
+    "skills": {
+      "python": 3,
+      "statistics": 2
+    },
+    "target_role": "data_scientist"
+  },
+  {
+    "name": "Bob",
+    "skills": {
+      "html": 3,
+      "css": 3
+    },
+    "target_role": "web_developer"
+  }
+]
