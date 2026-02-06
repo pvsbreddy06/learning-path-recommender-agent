@@ -1,1 +1,5 @@
+{
+  "python": ["Intro to Python", "Data Structures"],
+  "ml": ["Supervised Learning", "Unsupervised Learning"]
+}
 
