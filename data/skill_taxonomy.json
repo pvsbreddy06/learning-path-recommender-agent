@@ -1,1 +1,6 @@
+{
+  "programming": ["python", "java", "javascript"],
+  "data_science": ["statistics", "machine_learning", "sql"],
+  "web_development": ["html", "css", "react"]
+}
 
