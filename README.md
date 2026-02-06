@@ -100,14 +100,7 @@ learning-path-recommender-agent/
 ├── README.md
 ├── requirements.txt
 
-▶️ How to Run the Project
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/learning-path-recommender-agent.git
-cd learning-path-recommender-agent
+Setup & Run
 
-2️⃣ Install Dependencies
 pip install -r requirements.txt
-
-3️⃣ Run Backend Server
-cd backend
 python app.py
